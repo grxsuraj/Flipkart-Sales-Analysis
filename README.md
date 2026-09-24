@@ -194,11 +194,10 @@ Brands with consistently high discounts should be reviewed to determine whether 
 
 ## 👨‍💻 Author
 
-**Amir Jamal**
+**Suraj Pathan**
 
-MBA (Business Analytics)
+B.E. Artificial Intelligence & Data Science
+Dr. D. Y. Patil College of Engineering, Akurdi, Pune
 
-G.L. Bajaj Institute of Technology & Management
-
-- 🌐 GitHub: https://github.com/Amir-Jamal
-- 💼 LinkedIn: www.linkedin.com/in/amir-jamal-
+- 🌐 GitHub: grxsuraj
+  
