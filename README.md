@@ -197,6 +197,7 @@ Brands with consistently high discounts should be reviewed to determine whether 
 **Suraj Pathan**
 
 B.E. Artificial Intelligence & Data Science
+
 Dr. D. Y. Patil College of Engineering, Akurdi, Pune
 
 - 🌐 GitHub: grxsuraj
